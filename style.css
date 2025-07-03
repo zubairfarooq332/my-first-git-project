@@ -1,5 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   font-family: Arial;
   background-color: #000000;
-  color: white;
+}
+.footer {
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 40px;
 }
